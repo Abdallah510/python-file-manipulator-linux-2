@@ -1,0 +1,195 @@
+2024-06-14 10:57:12,430 - INFO - -------------------------------------------------------------
+2024-06-14 10:57:12,430 - INFO - this is command number # 1 
+2024-06-14 10:57:12,430 - INFO - this is a Rename command
+2024-06-14 10:57:12,430 - DEBUG - path was found
+2024-06-14 10:57:12,430 - INFO - Rename function was successful
+2024-06-14 10:57:12,430 - INFO - -------------------------------------------------------------
+2024-06-14 10:57:12,430 - INFO - this is command number # 2 
+2024-06-14 10:57:12,430 - INFO - this is a List command
+2024-06-14 10:57:12,430 - DEBUG - path was found
+2024-06-14 10:57:12,430 - INFO - List function was successful
+2024-06-14 10:57:12,431 - INFO - -------------------------------------------------------------
+2024-06-14 10:57:12,431 - INFO - this is command number # 3 
+2024-06-14 10:57:12,431 - INFO - this is a Sort command
+2024-06-14 10:57:12,431 - DEBUG - path was found
+2024-06-14 10:57:12,431 - INFO - Sort function was successful
+2024-06-14 10:57:12,432 - INFO - -------------------------------------------------------------
+2024-06-14 10:57:12,432 - INFO - this is command number # 4 
+2024-06-14 10:57:12,432 - INFO - this is a Mv_last command
+2024-06-14 10:57:12,432 - DEBUG - path was found
+2024-06-14 10:57:12,432 - INFO - Mv_last function was successful
+2024-06-14 10:57:12,433 - INFO - -------------------------------------------------------------
+2024-06-14 10:57:12,433 - INFO - this is command number # 5 
+2024-06-14 10:57:12,433 - INFO - this is a Count command
+2024-06-14 10:57:12,433 - DEBUG - path was found
+2024-06-14 10:57:12,433 - INFO - Count function was successful
+2024-06-14 10:57:12,433 - INFO - -------------------------------------------------------------
+2024-06-14 10:57:12,433 - INFO - this is command number # 6 
+2024-06-14 10:57:12,433 - INFO - this is a Delete command
+2024-06-14 10:57:12,433 - DEBUG - path was not found
+2024-06-14 10:57:12,433 - INFO - Delete function Faild
+2024-06-14 10:57:12,440 - INFO - -------------------------------------------------------------
+2024-06-14 10:57:12,440 - INFO - this is command number # 7 
+2024-06-14 10:57:12,440 - INFO - this is a Categorize command
+2024-06-14 10:57:12,440 - DEBUG - path was found
+2024-06-14 10:57:12,440 - INFO - Categorize function was successful
+2024-06-14 11:00:29,290 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:29,290 - INFO - this is command number # 1 
+2024-06-14 11:00:29,291 - INFO - this is a Rename command
+2024-06-14 11:00:29,291 - DEBUG - path was not found
+2024-06-14 11:00:29,291 - INFO - Rename function Faild
+2024-06-14 11:00:29,291 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:29,291 - INFO - this is command number # 2 
+2024-06-14 11:00:29,291 - INFO - this is a List command
+2024-06-14 11:00:29,291 - DEBUG - path was found
+2024-06-14 11:00:29,291 - INFO - List function was successful
+2024-06-14 11:00:29,291 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:29,291 - INFO - this is command number # 3 
+2024-06-14 11:00:29,291 - INFO - this is a Sort command
+2024-06-14 11:00:29,292 - DEBUG - path was found
+2024-06-14 11:00:29,292 - INFO - Sort function was successful
+2024-06-14 11:00:29,293 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:29,293 - INFO - this is command number # 4 
+2024-06-14 11:00:29,293 - INFO - this is a Mv_last command
+2024-06-14 11:00:29,293 - DEBUG - path was found
+2024-06-14 11:00:29,293 - INFO - Mv_last function was successful
+2024-06-14 11:00:29,293 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:29,293 - INFO - this is command number # 5 
+2024-06-14 11:00:29,293 - INFO - this is a Count command
+2024-06-14 11:00:29,293 - DEBUG - path was found
+2024-06-14 11:00:29,293 - INFO - Count function was successful
+2024-06-14 11:00:29,293 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:29,293 - INFO - this is command number # 6 
+2024-06-14 11:00:29,294 - INFO - this is a Delete command
+2024-06-14 11:00:29,294 - DEBUG - path was not found
+2024-06-14 11:00:29,294 - INFO - Delete function Faild
+2024-06-14 11:00:29,294 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:29,294 - INFO - this is command number # 7 
+2024-06-14 11:00:29,294 - INFO - this is a Categorize command
+2024-06-14 11:00:29,294 - DEBUG - path was found
+2024-06-14 11:00:29,294 - INFO - Categorize function was successful
+2024-06-14 11:00:39,929 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:39,929 - INFO - this is command number # 1 
+2024-06-14 11:00:39,929 - INFO - this is a Rename command
+2024-06-14 11:00:39,929 - DEBUG - path was not found
+2024-06-14 11:00:39,929 - INFO - Rename function Faild
+2024-06-14 11:00:39,929 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:39,929 - INFO - this is command number # 2 
+2024-06-14 11:00:39,929 - INFO - this is a List command
+2024-06-14 11:00:39,929 - DEBUG - path was found
+2024-06-14 11:00:39,929 - INFO - List function was successful
+2024-06-14 11:00:39,930 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:39,930 - INFO - this is command number # 3 
+2024-06-14 11:00:39,930 - INFO - this is a Sort command
+2024-06-14 11:00:39,930 - DEBUG - path was found
+2024-06-14 11:00:39,930 - INFO - Sort function was successful
+2024-06-14 11:00:39,931 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:39,931 - INFO - this is command number # 4 
+2024-06-14 11:00:39,931 - INFO - this is a Mv_last command
+2024-06-14 11:00:39,931 - DEBUG - path was found
+2024-06-14 11:00:39,931 - INFO - Mv_last function was successful
+2024-06-14 11:00:39,931 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:39,931 - INFO - this is command number # 5 
+2024-06-14 11:00:39,931 - INFO - this is a Count command
+2024-06-14 11:00:39,931 - DEBUG - path was found
+2024-06-14 11:00:39,931 - INFO - Count function was successful
+2024-06-14 11:00:39,931 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:39,932 - INFO - this is command number # 6 
+2024-06-14 11:00:39,932 - INFO - this is a Delete command
+2024-06-14 11:00:39,932 - DEBUG - path was not found
+2024-06-14 11:00:39,932 - INFO - Delete function Faild
+2024-06-14 11:00:39,932 - INFO - -------------------------------------------------------------
+2024-06-14 11:00:39,932 - INFO - this is command number # 7 
+2024-06-14 11:00:39,932 - INFO - this is a Categorize command
+2024-06-14 11:00:39,932 - DEBUG - path was found
+2024-06-14 11:00:39,932 - INFO - Categorize function was successful
+2024-06-14 11:01:05,869 - INFO - -------------------------------------------------------------
+2024-06-14 11:01:05,869 - INFO - this is command number # 1 
+2024-06-14 11:01:05,869 - INFO - this is a Rename command
+2024-06-14 11:01:05,869 - DEBUG - path was not found
+2024-06-14 11:01:05,869 - INFO - Rename function Faild
+2024-06-14 11:01:05,869 - INFO - -------------------------------------------------------------
+2024-06-14 11:01:05,870 - INFO - this is command number # 2 
+2024-06-14 11:01:05,870 - INFO - this is a List command
+2024-06-14 11:01:05,870 - DEBUG - path was found
+2024-06-14 11:01:05,870 - INFO - List function was successful
+2024-06-14 11:01:05,870 - INFO - -------------------------------------------------------------
+2024-06-14 11:01:05,870 - INFO - this is command number # 3 
+2024-06-14 11:01:05,870 - INFO - this is a Sort command
+2024-06-14 11:01:05,870 - DEBUG - path was found
+2024-06-14 11:01:05,870 - INFO - Sort function was successful
+2024-06-14 11:01:05,872 - INFO - -------------------------------------------------------------
+2024-06-14 11:01:05,872 - INFO - this is command number # 4 
+2024-06-14 11:01:05,872 - INFO - this is a Mv_last command
+2024-06-14 11:01:05,872 - DEBUG - path was found
+2024-06-14 11:01:05,872 - INFO - Mv_last function was successful
+2024-06-14 11:01:05,872 - INFO - -------------------------------------------------------------
+2024-06-14 11:01:05,872 - INFO - this is command number # 5 
+2024-06-14 11:01:05,872 - INFO - this is a Count command
+2024-06-14 11:01:05,872 - DEBUG - path was found
+2024-06-14 11:01:05,872 - INFO - Count function was successful
+2024-06-14 11:01:05,872 - INFO - -------------------------------------------------------------
+2024-06-14 11:01:05,872 - INFO - this is command number # 6 
+2024-06-14 11:01:05,872 - INFO - this is a Delete command
+2024-06-14 11:01:05,872 - DEBUG - path was not found
+2024-06-14 11:01:05,872 - INFO - Delete function Faild
+2024-06-14 11:01:05,873 - INFO - -------------------------------------------------------------
+2024-06-14 11:01:05,873 - INFO - this is command number # 7 
+2024-06-14 11:01:05,873 - INFO - this is a Categorize command
+2024-06-14 11:01:05,873 - DEBUG - path was found
+2024-06-14 11:01:05,873 - INFO - Categorize function was successful
+2024-06-14 11:04:46,066 - INFO - -------------------------------------------------------------
+2024-06-14 11:04:46,066 - INFO - this is command number # 1 
+2024-06-14 11:04:46,066 - INFO - this is a Rename command
+2024-06-14 11:04:46,066 - DEBUG - path was not found
+2024-06-14 11:04:46,066 - INFO - Rename function Faild
+2024-06-14 11:04:46,066 - INFO - -------------------------------------------------------------
+2024-06-14 11:04:46,066 - INFO - this is command number # 2 
+2024-06-14 11:04:46,066 - INFO - this is a List command
+2024-06-14 11:04:46,066 - DEBUG - path was found
+2024-06-14 11:04:46,066 - INFO - List function was successful
+2024-06-14 11:04:46,067 - INFO - -------------------------------------------------------------
+2024-06-14 11:04:46,067 - INFO - this is command number # 3 
+2024-06-14 11:04:46,067 - INFO - this is a Sort command
+2024-06-14 11:04:46,067 - DEBUG - path was found
+2024-06-14 11:04:46,067 - INFO - Sort function was successful
+2024-06-14 11:04:46,067 - INFO - -------------------------------------------------------------
+2024-06-14 11:04:46,067 - INFO - this is command number # 4 
+2024-06-14 11:04:46,068 - INFO - this is a Mv_last command
+2024-06-14 11:04:46,068 - DEBUG - path was found
+2024-06-14 11:04:46,068 - INFO - Mv_last function was successful
+2024-06-14 11:04:46,068 - INFO - -------------------------------------------------------------
+2024-06-14 11:04:46,068 - INFO - this is command number # 5 
+2024-06-14 11:04:46,068 - INFO - this is a Count command
+2024-06-14 11:04:46,068 - DEBUG - path was found
+2024-06-14 11:04:46,068 - INFO - Count function was successful
+2024-06-14 11:04:46,068 - INFO - -------------------------------------------------------------
+2024-06-14 11:04:46,068 - INFO - this is command number # 6 
+2024-06-14 11:04:46,068 - INFO - this is a Delete command
+2024-06-14 11:04:46,068 - DEBUG - path was not found
+2024-06-14 11:04:46,068 - INFO - Delete function Faild
+2024-06-14 11:04:46,069 - INFO - -------------------------------------------------------------
+2024-06-14 11:04:46,069 - INFO - this is command number # 7 
+2024-06-14 11:04:46,069 - INFO - this is a Categorize command
+2024-06-14 11:04:46,069 - DEBUG - path was found
+2024-06-14 11:04:46,069 - INFO - Categorize function was successful
+2025-02-08 17:15:24,417 - INFO - -------------------------------------------------------------
+2025-02-08 17:15:24,418 - INFO - this is command number # 1 
+2025-02-08 17:15:24,418 - INFO - this is a Rename command
+2025-02-08 17:15:24,418 - DEBUG - path was not found
+2025-02-08 17:15:24,418 - INFO - Rename function Faild
+2025-02-08 17:16:33,666 - INFO - -------------------------------------------------------------
+2025-02-08 17:16:33,667 - INFO - this is command number # 1 
+2025-02-08 17:16:33,667 - INFO - this is a Rename command
+2025-02-08 17:16:33,667 - DEBUG - path was not found
+2025-02-08 17:16:33,667 - INFO - Rename function Faild
+2025-02-08 17:17:18,870 - INFO - -------------------------------------------------------------
+2025-02-08 17:17:18,870 - INFO - this is command number # 1 
+2025-02-08 17:17:18,870 - INFO - this is a Rename command
+2025-02-08 17:17:18,870 - DEBUG - path was not found
+2025-02-08 17:17:18,870 - INFO - Rename function Faild
+2025-02-08 17:17:55,248 - INFO - -------------------------------------------------------------
+2025-02-08 17:17:55,248 - INFO - this is command number # 1 
+2025-02-08 17:17:55,248 - INFO - this is a Rename command
+2025-02-08 17:17:55,248 - DEBUG - path was found
+2025-02-08 17:17:55,248 - INFO - Rename function was successful
